@@ -1,5 +1,4 @@
 # Lista de archivos
 
-![Juce](icons/Juce.png)  
-Juce Icon [Descargar *.ico](icons/Juce.ico)
+ - Juce Icon [Descargar *.ico](icons/Juce.ico) | [Descargar *.png](icons/Juce.png)
 
