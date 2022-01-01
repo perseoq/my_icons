@@ -1,5 +1,3 @@
-# All images
-
-![juce](icons/Juce.png)  
+# Icons
 Juce Icon [Descargar *.ico](icons/Juce.ico)
 
