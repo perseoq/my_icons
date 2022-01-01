@@ -1,4 +1,5 @@
 # All images
 
-- Juce Icon
-![juce](icons/Juce.png)
+![juce](icons/Juce.png)  
+Juce Icon
+
